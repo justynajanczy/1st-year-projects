@@ -16,4 +16,3 @@ public class MouseClass extends MouseAdapter {
     }
 
 }
-

@@ -9,4 +9,3 @@ public class Square {
         this.y = y;
     }
 }
-
