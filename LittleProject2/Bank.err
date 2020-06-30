@@ -1,0 +1,8 @@
+Line 3: MaryB Mary Coe 200
+    Error: Account already exists
+Line 4: JohnD MaryB 1100
+    Error: Insufficient funds
+Line 6: MaryB -5000
+    Error : Amount of withdrawal exceeds the balance
+Line 9: x x x x
+    Error: Amount expected
