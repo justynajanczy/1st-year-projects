@@ -1,4 +1,3 @@
-/*
 public class Square {
 
     double x;
@@ -10,4 +9,4 @@ public class Square {
         this.y = y;
     }
 }
-*/
+
